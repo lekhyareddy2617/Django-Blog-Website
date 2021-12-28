@@ -1,1 +1,1 @@
-# Django-Website
+# Django-Blog-Website
